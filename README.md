@@ -91,9 +91,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohitkumar081/mohitkumar081/output/github-contribution-grid-snake-dark.svg" />
 </p>
-> ⚠️ **Note:** The snake animation needs a one-time setup (GitHub Action) to work on your profile — instructions are below.
- 
----
+
  
 ### 🤝 Connect With Me
  

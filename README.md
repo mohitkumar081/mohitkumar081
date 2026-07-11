@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there 👋, I'm Mohat Kumar</h1>
 <h3 align="center">Full Stack AI Engineer | CS Final Year Student | Building Intelligent Web Applications</h3>
  
@@ -14,7 +15,7 @@
   <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohatKumar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohitkumar081&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 ---
  
@@ -74,21 +75,21 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohatKumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohatKumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitkumar081&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumar081&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohatKumar&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkumar081&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohatKumar&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitkumar081&theme=tokyo-night&hide_border=true" />
 </p>
 ---
  
 ### 🐍 Contribution Snake
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohatKumar/MohatKumar/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mohitkumar081/mohitkumar081/output/github-contribution-grid-snake-dark.svg" />
 </p>
 > ⚠️ **Note:** The snake animation needs a one-time setup (GitHub Action) to work on your profile — instructions are below.
  

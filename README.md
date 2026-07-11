@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 <p align="center">
@@ -31,7 +32,7 @@
 
 ```yaml
 Role:        Full Stack AI Engineer
-Education:   Final Year - Computer Science
+Education:   Final Year - Computer Science, FAST NUCES Karachi
 Focus:       Web Development × Artificial Intelligence
 Currently:   Building end-to-end apps with MERN / PERN,
              integrated with AI & ML models
@@ -41,6 +42,7 @@ Location:    Karachi, Pakistan
 
 - ⚡ I turn complex problems into clean, working code
 - 🧠 Passionate about merging **full-stack engineering** with **AI**
+- 🧩 Solved **100+ problems** on LeetCode
 - 🌱 Always learning, always shipping
 - 📫 **mohatkumar44@gmail.com**
 
@@ -49,7 +51,7 @@ Location:    Karachi, Pakistan
 
 ### 📊 Quick Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitkumar081&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitkumar081&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -60,37 +62,39 @@ Location:    Karachi, Pakistan
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,mongodb,express,react,nodejs,postgres,tensorflow,pytorch,docker,git,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,mongodb,express,react,nextjs,nodejs,postgres,tensorflow,pytorch,docker,git,github,githubactions&theme=dark" />
 </p>
 
 <table width="100%">
 <tr>
 <td align="center" width="25%"><b>Languages</b><br><br>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </td>
 <td align="center" width="25%"><b>MERN / PERN</b><br><br>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </td>
 <td align="center" width="25%"><b>AI / ML</b><br><br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </td>
 <td align="center" width="25%"><b>DevOps</b><br><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CI%2FCD-4CAF50?style=flat-square&logo=cachet&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=cachet&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </td>
 </tr>
 </table>

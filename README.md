@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Mohat-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/mohat-kumar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:mohatkumar44@gmail.com">
     <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

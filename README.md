@@ -36,7 +36,7 @@ Education:   Final Year - Computer Science, FAST NUCES Karachi
 Focus:       Web Development × Artificial Intelligence
 Currently:   Building end-to-end apps with MERN / PERN,
              integrated with AI & ML models
-Exploring:   Deep Learning, LLMs & Intelligent Agents
+Exploring:   Deep Learning, LLMs, Intelligent Agents,Agentic & GenAI
 Location:    Karachi, Pakistan
 ```
 

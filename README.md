@@ -42,7 +42,7 @@ Location:    Karachi, Pakistan
 
 - ⚡ I turn complex problems into clean, working code
 - 🧠 Passionate about merging **full-stack engineering** with **AI**
-- 🧩 Solved **100+ problems** on LeetCode
+- 🧩 Solved **150+ problems** on LeetCode
 - 🌱 Always learning, always shipping
 - 📫 **mohatkumar44@gmail.com**
 

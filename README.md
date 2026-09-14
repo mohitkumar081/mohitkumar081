@@ -104,7 +104,7 @@ Location:    Karachi, Pakistan
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkumar081&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=A78BFA" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=mohitkumar081&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=A78BFA" alt="streak stats"/>
 </p>
 
 <p align="center">
